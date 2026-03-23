@@ -1,3 +1,11 @@
+# RoadClaw
+
+> Run OpenClaw on bare metal — no OS needed
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`memovai/mimiclaw`](https://github.com/memovai/mimiclaw).
+
+---
+
 # MimiClaw: Pocket AI Assistant on a $5 Chip
 
 <p align="center">
